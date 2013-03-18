@@ -1,13 +1,10 @@
 <h1><b>FedEx Day #1</b></h1>
-
 Utilize the matLibPlot library to create visualizations of data in two-dimensional chart form. Commuter time data downloaded from the census was used to demonstrate the library's capability.
 
-<b>Goal of the Project</b>
-<hr>
+<b>Goal of the Project</b><hr>
 The goal of the project was to successfully utilize the library and create "a" visualization of the data via scatter plot or heat map.
 
-<b>Before Getting Started</b>
-<hr>
+<b>Before Getting Started</b><hr>
 The matLibPlot library has dependencies. To properly setup, install the following in the order listed (for Win7).
 
     Python 2.6 or higher - http://python.org/download/releases/
