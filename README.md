@@ -5,20 +5,22 @@ Utilize the matLibPlot library to create visualizations of data in two-dimension
 --------------------------
 The goal of the project was to successfully utilize the library and create "a" visualization of the data via scatter plot or heat map.
 
-<b>Before Getting Started</b>
+<b>Setup and Configuration</b>
 --------------------------
-The matLibPlot library has dependencies. To properly setup, install the following in the order listed (for Win7).
+I used Eclipse IDE as the development environment to experiment with this project. I also installed the add-on, PyDev which enables you to create Python projects, set the type of project (Python, Jython, or Iron Python), set interpreter, add dependencies to the project and so on.
 
-    * Python 2.6 or higher - http://python.org/download/releases/
-    * numpy 1.7.0 - https://pypi.python.org/pypi/numpy
-    * matLibPlot 1.2.0 - http://matplotlib.org/downloads.html
+Python needs to be installed as well as dependecies for the matLibPlot library. To properly setup, install the following in the order listed (for Win7).
 
-Arguments
+* Python 2.6 or higher - http://python.org/download/releases/
+* numpy 1.7.0 - https://pypi.python.org/pypi/numpy
+* matLibPlot 1.2.0 - http://matplotlib.org/downloads.html
 
-    Feature Class: the name of the Feature Class you wish to export
-    Output Location: the folder location where the output file will be generated
-    CSV|JSON|GeoJSON: file type you wish to create; Default is GeoJSON
-    Delimiter: Optional - if you select CSV, you will need to select a delimiter; the default is "|"
+Using the MSI installers are the easiest means of getting quickly setup. You can also download the tarballs and install manually via command line.
+
+<b>The Data</b>
+--------------------------
+Downloaded http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_11_1YR_B08303&prodType=table
+
 
 License
 
