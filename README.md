@@ -1,4 +1,4 @@
-<b>FedEx Day #1</b>
+<h1><b>FedEx Day #1</b></h1>
 
 Utilize the matLibPlot library to create a visualization of data in two-dimensional chart form. Plot deltas on a two dimensional chart of commuter time data from the census
 
