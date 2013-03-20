@@ -21,13 +21,4 @@ Python needs to be installed as well as dependecies for the matLibPlot library. 
 
 Using the MSI installers are the easiest means of getting quickly setup. You can also download the tarballs and install manually via command line.
 
-<b>The Code</b>
---------------------------
-The code to demonstrate the example is crude. I copied some of the code from examples on their <a href="http://matplotlib.org/>website</a> and hard-coded paths to reference my data. The data is able to be rendered but at this point can't make exact sense of it. More work needs to be done.
 
-<b>Next Steps</b>
---------------------------
-Using this library relies heavily on the numpy library which I did not foresee when I dove into this. Going forward...
-
-* Choose a bigger sample of data and choose the best method to plot it
-* Keep plugging away at this
