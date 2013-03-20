@@ -27,7 +27,7 @@ The code to demonstrate the example is crude. I copied some of the code from exa
 
 <b>Next Steps</b>
 --------------------------
-Using this library relies heavily on the numpy library which I did not forsee when I dove into this. Going forward...
+Using this library relies heavily on the numpy library which I did not foresee when I dove into this. Going forward...
 
-* Choose a bigger sample of data and choose the best method to plot it.
+* Choose a bigger sample of data and choose the best method to plot it
 * Keep plugging away at this
