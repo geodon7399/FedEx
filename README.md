@@ -3,7 +3,7 @@ Utilize the matLibPlot library to create visualizations of data in two-dimension
 
 <b>Background</b>
 --------------------------
-matplotlib is a Python library that simplifies the creation of plots, histograms, bar charts, and scatterplots to name a few. I stumbled onto this library and thought it would be interesting to investigate its capabilities in producing unique visualizations. I saw the potential value in it as it could suplement GIS analysis and would be beneficial to support decision making and planning.
+matplotlib is a Python library that simplifies the creation of plots, histograms, bar charts, and scatterplots to name a few. For the FedEx project, I thought it would be interesting to further investigate its capabilities in producing unique visualizations. The visualizations produced could increase the value of standard GIS deliverables and could be beneficial in supporting decision making and planning.
 
 <b>Goal of the Project</b>
 --------------------------
@@ -29,7 +29,9 @@ The code to demonstrate the example is crude. I copied some of the code from exa
 --------------------------
 Using this library relies heavily on the numpy library which I did not foresee when I dove into this. Going forward...
 
-* Choose a bigger sample of data and choose the best method to plot it
-* Keep plugging away at this
+* Research the numpy library
+* Choose a larger sample of data
+* Choose the appropriate method to plot the data
+* Keep working with these libraries
 
 
