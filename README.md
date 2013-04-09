@@ -23,7 +23,7 @@ Using the MSI installers are the easiest means of getting quickly setup. You can
 
 <b>The Code</b>
 --------------------------
-The code to demonstrate the example is crude. I copied some of the code from examples on their <a href="http://matplotlib.org/>website</a> and hard-coded paths to reference my data. The data is able to be rendered but at this point can't make exact sense of it. More work needs to be done.
+The code to demonstrate the example is crude. I copied some of the code from examples on their <a href="http://matplotlib.org/">website</a> and hard-coded paths to reference my data. The data is able to be rendered but at this point can't make exact sense of it. More work needs to be done.
 
 <b>Next Steps</b>
 --------------------------
